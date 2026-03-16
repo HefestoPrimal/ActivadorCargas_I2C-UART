@@ -2,12 +2,9 @@
 
 A través de comunicación de 2 pines físicos I2C o UART, se puede activar y desactivar cargas eléctricas en un dispositivo. Este activador puede ser utilizado para controlar salidas digitales por medio del microcontrolador, cuenta con un expansor de salidas que van directamente conectados a las entradas de un driver de potencia para conectar por ejemplo relevadores o motores directamente.
 
-![Circuito esquemático](hardware\schematics\ActivadorCargasI2C-UART_Esquematico.jpeg)
+<img src="hardware\schematics\ActivadorCargasI2C-UART_Esquematico.jpeg" alt="Circuito Esquematico" width="100%" height="auto">
 
-<img src="hardware\schematics\ActivadorCargasI2C-UART_Esquematico.jpeg" alt="Circuito Esquematico" width="500" height="auto">
-
-<video src="docs\video\SimulacionATtiny85_74HC595.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<img src="docs\video\SimulacionATtiny85_74HC595.gif" alt="Simulacion" width="100%" height="auto">
 
 ## Características
 
